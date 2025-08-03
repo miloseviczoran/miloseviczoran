@@ -1,4 +1,4 @@
-<p align="justify">Zoran is a developer with a Master's degree in Computer Engineering and 10+ years of software development experience. He is experienced in back-end, front-end and automation technologies such as Python, FastAPI, MySQL, Selenium, JavaScript, TypeScript and more. Zoran has also developed and maintained various software solutions and has exceptional knowledge in this field.</p>
+<p align="justify">Zoran is a developer with a Master's degree in Computer Engineering and 10+ years of software engineering/development experience. He is experienced in back-end, front-end and automation technologies such as Python, FastAPI, MySQL, Selenium, JavaScript, TypeScript and more. Zoran has also developed and maintained various software solutions and has exceptional knowledge in this field.</p>
 
 - 🔭 Currently working on Python/TypeScript.
 - 👯 Looking to collaborate on new business ideas.
