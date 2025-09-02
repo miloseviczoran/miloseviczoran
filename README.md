@@ -1,6 +1,6 @@
 <p align="justify">✨ZORAN✨ is a developer with a Master's degree in Computer Engineering and 7+ years of software engineering/development experience. He is experienced in back-end, front-end and automation technologies such as Python, FastAPI, MySQL, Selenium, JavaScript, TypeScript and more. Zoran has also developed and maintained various software solutions and has exceptional knowledge in this field.</p>
 
-- 🔭 Currently working on Python/TypeScript.
+- 🔭 Currently working on Python/TypeScript and AI Meeting SaaS - https://zm-ai-meeting-nnem.vercel.app.
 - 👯 Looking to collaborate on new business ideas.
 - 🤔 Looking for help with on new business ideas.
 - 💬 Ask me about advice or any tech solution 👩‍💻.
