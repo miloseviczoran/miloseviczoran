@@ -8,11 +8,12 @@
 - 📫 How to reach me:📱[mag.milosevic.zoran@gmail.com](mailto:mag.milosevic.zoran@gmail.com).
 - 📫 How to reach me:📱[zoran.py@gmail.com](mailto:zoran.py@gmail.com).
 
+# 🔗 Links (Just some of my latest JavaScript | React | TypeScript projects)
+- https://zm-ai-meeting-nnem.vercel.app/ ➡️ AI Meeting project for learning, chating and more - Full SaaS Application with Subscription, Transcripts and Real Time Payments.
+- https://zm-resume-analyzer.vercel.app/ ➡️ AI Resume Analyzer - checking your resume, giving suggestions and more.
+- https://interactive-portfolio-zoranmilosevic.vercel.app/ ➡️ Check My Interactive Portfolio.
+- https://portfolio-mu-flax-63.vercel.app/ ➡️ Modern Gaming Website.
+
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoranmilosevic) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
-
-# 🔗 Links
-- https://zm-ai-meeting-nnem.vercel.app ➡️ AI Meeting project for learning, chating and more - Full SaaS Application with Subscription, Transcripts and Real Time Payments.
-- https://zm-resume-analyzer.vercel.app ➡️ AI Resume Analyzer - checking your resume, giving suggestions and more.
-- 
