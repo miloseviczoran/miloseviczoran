@@ -9,10 +9,10 @@
 - 📫 How to reach me:📱[zoran.py@gmail.com](mailto:zoran.py@gmail.com).
 
 # 🔗 Links (Just some of my latest JavaScript | React | TypeScript projects)
-<p align="justify">- https://zm-ai-meeting-nnem.vercel.app/ ➡️ AI Meeting project for learning, chating and more - Full SaaS Application with Subscription, Transcripts and Real Time Payments.
+<p align="justify">- https://zm-ai-meeting-nnem.vercel.app/ ➡️ AI Meeting project for learning, chating and more - Full SaaS Application with Subscription, Transcripts and Real Time Payments.</p>
 - https://zm-resume-analyzer.vercel.app/ ➡️ AI Resume Analyzer - checking your resume, giving suggestions and more.
 - https://interactive-portfolio-zoranmilosevic.vercel.app/ ➡️ Check My Interactive Portfolio.
-- https://portfolio-mu-flax-63.vercel.app/ ➡️ Modern Gaming Website.</p>
+- https://portfolio-mu-flax-63.vercel.app/ ➡️ Modern Gaming Website.
 
 # 🌐 Socials
 
