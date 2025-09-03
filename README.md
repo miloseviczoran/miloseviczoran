@@ -4,7 +4,7 @@
 - 👯 Looking to collaborate on new business ideas.
 - 🤔 Looking for help with on new business ideas.
 - 💬 Ask me about advice or any tech solution 👩‍💻.
-- 📫 How to reach me:📱https://interactive-portfolio-zoranmilosevic.vercel.app/.
+- 📫 How to reach me:📱https://interactive-portfolio-zoranmilosevic.vercel.app.
 - 📫 How to reach me:📱[mag.milosevic.zoran@gmail.com](mailto:mag.milosevic.zoran@gmail.com).
 - 📫 How to reach me:📱[zoran.py@gmail.com](mailto:zoran.py@gmail.com).
 
